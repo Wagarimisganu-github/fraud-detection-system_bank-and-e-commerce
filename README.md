@@ -71,7 +71,7 @@ fraud-detection-system/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/OL-YAD/fraud-detection-system.git
+git clone https://github.com/Wagarimisganu-github/fraud-detection-system_bank-and-e-commerce.git
 cd fraud-detection-system
 ```
 
