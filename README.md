@@ -233,5 +233,4 @@ The dashboard provides real-time monitoring and visualization of:
 ## 📧 Contact
 
 For questions and feedback:
-- Email: olyadtemesgen@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/olyad-temesgen/]
+- Email: wagarimisganu12@gmail.com
